@@ -1,0 +1,2 @@
+# jsbot
+full bot
